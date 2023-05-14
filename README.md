@@ -1,4 +1,5 @@
 Skin Lesion Classification - Thesis Code
+
 Student name: Erdem Akca
 
 This repository contains the code used in my thesis titled "Seeing Beyond the Surface: Classifying Skin Lesions". The research involves three models: RepVGG (a baseline CNN model), MaxViT, and MviTv2 (Vision transformer models).
