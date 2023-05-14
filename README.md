@@ -8,9 +8,10 @@ Repository Structure
 
 data_processing.ipynb: This notebook contains the code used for data splitting, processing and saving the data.
 
-exploratory_data_analysis.ipynb: Here, you can find the code that was used for exploratory data analysis.
+exploratory_data_analysis.ipynb: This notebook containd the code that was used for exploratory data analysis.
 
 Experiments
+
 In the thesis, three experiments were conducted for each model. Each notebook is named after the model and experiment applied. The following abbreviations are used:
 
 no_data_aug: No data augmentation was applied.
